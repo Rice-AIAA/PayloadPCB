@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM3281YFQR")(type "KiCad")(uri "C:/Users/aayan/Downloads/LM3281YFQR/LM3281YFQR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS610333DRLR")(type "KiCad")(uri "C:/Users/aayan/Downloads/LIB_TPS610333DRLR/TPS610333DRLR/KiCad/TPS610333DRLR.kicad_sym")(options "")(descr ""))
+)
